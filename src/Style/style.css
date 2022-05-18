@@ -404,6 +404,11 @@ body{
     color: #02428c;
     position:absolute;
 }
+.content-user-1{
+    width: 30%;
+    margin-left: 16%;
+    color: #02428c;
+}
 .sideRight-home{
     width: 25%;
     height: 70vh;

@@ -65,13 +65,15 @@ const HomeComponent = () => {
           <Modal.Title>Usuarios</Modal.Title>
         </Modal.Header>
         <Modal.Body>
-          <div className='content-user'>
-            <h1 onClick={() => cambio(data.one.name)}>{data.one.name}</h1>
-            <h3>{data.one.Profesion}</h3>
-          </div>
-          <div className='content-user'>
-            <h1 onClick={() => cambio(data.two.name)}>{data.two.name}</h1>
-            <h3>{data.two.Profesion}</h3>
+          <div>
+            <div className='content-user-1'>
+              <h1 onClick={() => cambio(data.one.name)}>{data.one.name}</h1>
+              <h3>{data.one.Profesion}</h3>
+            </div>
+            <div className='content-user-1'>
+              <h1 onClick={() => cambio(data.two.name)}>{data.two.name}</h1>
+              <h3>{data.two.Profesion}</h3>
+            </div>
           </div>
         </Modal.Body>
         <Modal.Footer>
