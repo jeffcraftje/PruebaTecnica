@@ -24,9 +24,9 @@ const HomeComponent = () => {
   const handleShow = () => setShow(true);
 
   const cambio = (name) => {
-    if (name !== dat.name) {
-      const traer = data.find(e => e.one.name === name)
-      console.log(traer)
+    if (name !== "German Lopez") {
+      setDat(data.two)
+      setShow(false)
     } else {
       setDat(data.one)
       setShow(false)
