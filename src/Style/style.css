@@ -787,4 +787,11 @@ body {
         top: 25px;
         left: 30px !important;
     }
+    .footers{
+        height: 110vh;
+    }
+    .footers a{
+        top: 580px;
+        left: 150px;
+    }
 }
