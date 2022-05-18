@@ -84,16 +84,16 @@ export const App = () => {
                         <img src="../assetp/IMG/Logo Health Academy.png" alt='logo'></img>
                     </div>
                     <div className={video1}>
-                        <iframe src="https://www.youtube.com/embed/3gzcV37ZAXE?autoplay" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+                        <iframe width="1309" height="489" src="https://www.youtube.com/embed/6svvtOjLA-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                     <div className={video2}>
-                        <iframe width="1309" height="489" src="https://www.youtube.com/embed/pLBuFxMYkx8" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+                        <iframe width="1309" height="489" src="https://www.youtube.com/embed/Nka4JSBgf7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                     <div className={video3}>
-                        <iframe width="1309" height="489" src="https://www.youtube.com/embed/WngXDkS5lGU" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+                        <iframe width="1309" height="489" src="https://www.youtube.com/embed/Mi_sRAfs7TE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                     <div className={video4}>
-                        <iframe width="1309" height="489" src="https://www.youtube.com/embed/Qw9mb_ln7ks" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+                        <iframe width="1309" height="489" src="https://www.youtube.com/embed/gfw9XxRQGa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                     <div className='bottons'>
                         <button className='button-1' onClick={omitir}>OMITIR</button>
