@@ -677,6 +677,7 @@ body {
     .con-home-r {
         display: block;
         top: 70px;
+        height: 80vh;
     }
 
     .side-home {
