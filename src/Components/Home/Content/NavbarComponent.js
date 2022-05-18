@@ -9,7 +9,7 @@ export const NavbarComponent = () => {
                     type="text"
                     placeholder='BUSCAR'
                 />
-                <img src='../../../../assetp/SVG/Group 67.svg'></img>
+                <button className='butos'><img src='../../../../assetp/SVG/Group 67.svg'></img></button>
             </div>
             <Nav className="justify-content-end" activeKey="/home">
                 <Nav.Item>
